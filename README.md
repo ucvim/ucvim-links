@@ -15,4 +15,4 @@ instagram: https://instagram.com/catwhoswim/
 whatsapp: https://wa.me/qr/B6ARM7FXCMWRE1
 
 
-vk.com: https://vk.com/po4emutblplavaeshb
+vk: https://vk.com/po4emutblplavaeshb
